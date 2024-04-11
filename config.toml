@@ -1,0 +1,7 @@
+[intervals]
+Every_hour = 60
+Every_half_hour = 30
+Every_15_minutes = 15
+Every_10_minutes = 10
+Every_5_minutes = 5
+Every_minute = 1

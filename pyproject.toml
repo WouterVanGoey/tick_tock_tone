@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "TickTockTone"
+version = "0.1.0"
+description = "Chime app that rings at user-defined times."
+authors = ["Wouter Van Goey <wvg249+github@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+customtkinter = "^5.2.2"
+pygame = "^2.5.2"
+tomlkit = "^0.12.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
